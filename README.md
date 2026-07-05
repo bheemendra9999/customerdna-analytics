@@ -64,7 +64,7 @@ The workflow combines SQL, Python, and Power BI to transform raw transaction dat
 
 ## Dashboard Preview
 
-![Dashboard](images/CUSTOMER DNA DASHBOARD.png)
+![Dashboard](images/final.png)
 
 ---
 
