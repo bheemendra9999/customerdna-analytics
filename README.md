@@ -65,7 +65,6 @@ The workflow combines SQL, Python, and Power BI to transform raw transaction dat
 ## Dashboard Preview
 
 ![Dashboard](images/final dashboard.png)
-
 ---
 
 ## Repository Structure
