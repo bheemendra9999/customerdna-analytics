@@ -63,6 +63,7 @@ The workflow combines SQL, Python, and Power BI to transform raw transaction dat
 ---
 
 ## Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](images/final_dashboard.png)
 ---
